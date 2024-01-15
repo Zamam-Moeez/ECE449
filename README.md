@@ -1,2 +1,2 @@
-# Genetic Fuzzy tip controller
-Fuzzy Tip controller from lab 4 optimized using Genetic algorithms
+# ECE 449 Labs
+Jupyter Notebooks for ECE 449 Labs
