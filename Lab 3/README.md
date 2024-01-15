@@ -1,1 +1,1 @@
-# Convolutional Neural Network for Image Classification of MNIST data set
+# Convolutional Neural Network for MNIST data set
