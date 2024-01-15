@@ -1,2 +1,1 @@
-# ECE449
-Jupyter Notebooks for ECE449 Labs
+# Convolutional Neural Network for Image Classification of MNIST data set
