@@ -1,2 +1,1 @@
-# ECE449
-Jupyter Notebooks for ECE449 Labs
+# Muli Label Wine Classifier
